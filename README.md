@@ -31,9 +31,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile SS](images/mobile.png)
-![Desktop](images/desktop.png)
-![Marked All read](images/no-notifications.png)
+![Mobile SS](/images/mobile.png)
+![Desktop](/images/desktop.png)
+![Marked All read](/images/no-notifications.png)
 
 ### Links
 
